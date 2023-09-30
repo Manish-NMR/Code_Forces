@@ -1,4 +1,4 @@
-// link - 
+// link - https://codeforces.com/problemset/problem/104/A
 
 #include <iostream>
 using namespace std;
@@ -14,3 +14,16 @@ int main(){
             cout << 4 << endl;
         return 0;
 }
+
+// inputCopy
+// 12
+// outputCopy
+// 4
+// inputCopy
+// 20
+// outputCopy
+// 15
+// inputCopy
+// 10
+// outputCopy
+// 0
