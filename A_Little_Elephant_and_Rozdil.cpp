@@ -21,3 +21,14 @@ int main(){
     if(count>1) cout<<"Still Rozdil"<<endl;
     else cout<<loc<<endl;
 }
+
+// inputCopy
+// 2
+// 7 4
+// outputCopy
+// 2
+// inputCopy
+// 7
+// 7 4 47 100 4 9 12
+// outputCopy
+// Still Rozdil
